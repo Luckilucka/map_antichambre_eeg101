@@ -46,12 +46,12 @@
         {
          "draworder":"topdown",
          "id":3,
-         "name":"start",
+         "name":"floorLayer",
          "objects":[
                 {
                  "height":62.0095693779905,
                  "id":2,
-                 "name":"start",
+                 "name":"floorLayer",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -155,8 +155,8 @@
                  "type":"",
                  "visible":true,
                  "width":251.483253588517,
-                 "x":401.913875598086,
-                 "y":497.224880382775
+                 "x":405.358851674641,
+                 "y":492.631578947368
                 }, 
                 {
                  "height":97.6076555023924,
