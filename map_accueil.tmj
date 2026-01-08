@@ -231,6 +231,22 @@
          "id":5,
          "name":"top",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"Nom",
+                 "type":"string",
+                 "value":"layer"
+                }, 
+                {
+                 "name":"Type",
+                 "type":"string",
+                 "value":"String"
+                }, 
+                {
+                 "name":"Valeur",
+                 "type":"string",
+                 "value":"top"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":33,
@@ -252,6 +268,22 @@
          "imagewidth":32,
          "margin":0,
          "name":"tuile_rouge",
+         "properties":[
+                {
+                 "name":"Coch\u00e9",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"Nom",
+                 "type":"string",
+                 "value":"collides"
+                }, 
+                {
+                 "name":"Type",
+                 "type":"string",
+                 "value":"Bool"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
