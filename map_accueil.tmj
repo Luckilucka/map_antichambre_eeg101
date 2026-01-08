@@ -46,12 +46,12 @@
         {
          "draworder":"topdown",
          "id":3,
-         "name":"floorLayer",
+         "name":"start",
          "objects":[
                 {
                  "height":62.0095693779905,
                  "id":2,
-                 "name":"floorLayer",
+                 "name":"start",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -155,8 +155,8 @@
                  "type":"",
                  "visible":true,
                  "width":251.483253588517,
-                 "x":405.358851674641,
-                 "y":492.631578947368
+                 "x":403.062200956938,
+                 "y":492.631578947369
                 }, 
                 {
                  "height":97.6076555023924,
@@ -223,12 +223,50 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":1,
          "firstgid":1,
-         "source":"tuile_rouge.tsx"
+         "image":"tuile_rouge.png",
+         "imageheight":32,
+         "imagewidth":32,
+         "margin":0,
+         "name":"tuile_rouge",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"Coch\u00e9",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"Nom",
+                         "type":"string",
+                         "value":"collides"
+                        }, 
+                        {
+                         "name":"Type",
+                         "type":"string",
+                         "value":"Bool\u00e9en"
+                        }]
+                }],
+         "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":2,
-         "source":"tuile_bleue.tsx"
+         "image":"tuile_bleue.png",
+         "imageheight":32,
+         "imagewidth":32,
+         "margin":0,
+         "name":"tuile_bleue",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
