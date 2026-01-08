@@ -45,6 +45,28 @@
         }, 
         {
          "draworder":"topdown",
+         "id":7,
+         "name":"floorLayer",
+         "objects":[
+                {
+                 "height":577.607655502392,
+                 "id":15,
+                 "name":"floorLayer",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":1055.31100478469,
+                 "x":2.29665071770335,
+                 "y":-2.29665071770335
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":3,
          "name":"start",
          "objects":[
@@ -215,8 +237,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":7,
- "nextobjectid":15,
+ "nextlayerid":8,
+ "nextobjectid":16,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.2",
