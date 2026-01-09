@@ -230,11 +230,7 @@
          "margin":0,
          "name":"tuile_rouge",
          "properties":[
-                {
-                 "name":"collised",
-                 "type":"bool",
-                 "value":true
-                }],
+                ],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -267,4 +263,5 @@
  "type":"map",
  "version":"1.10",
  "width":33
+
 }
