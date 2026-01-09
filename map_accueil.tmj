@@ -26,7 +26,7 @@
          "name":"Calque de Tuiles 1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":33,
          "x":0,
          "y":0
@@ -270,19 +270,9 @@
          "name":"tuile_rouge",
          "properties":[
                 {
-                 "name":"Coch\u00e9",
+                 "name":"collised",
                  "type":"bool",
                  "value":true
-                }, 
-                {
-                 "name":"Nom",
-                 "type":"string",
-                 "value":"collides"
-                }, 
-                {
-                 "name":"Type",
-                 "type":"string",
-                 "value":"Bool"
                 }],
          "spacing":0,
          "tilecount":1,
