@@ -253,7 +253,7 @@
         {
          "columns":1,
          "firstgid":1,
-         "image":"https://luckilucka.github.io/map_antichambre_eeg101/tuile_rouge.png",
+         "image":"tuile_rouge.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -282,7 +282,7 @@
         {
          "columns":1,
          "firstgid":2,
-         "image":"https://luckilucka.github.io/map_antichambre_eeg101/tuile_bleue.png",
+         "image":"tuile_bleue.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -298,4 +298,5 @@
  "width":33
 
 }
+
 
