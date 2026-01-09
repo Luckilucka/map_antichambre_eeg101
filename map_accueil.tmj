@@ -282,19 +282,9 @@
                  "id":0,
                  "properties":[
                         {
-                         "name":"Coch\u00e9",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
-                        }, 
-                        {
-                         "name":"Nom",
-                         "type":"string",
-                         "value":"collides"
-                        }, 
-                        {
-                         "name":"Type",
-                         "type":"string",
-                         "value":"Bool\u00e9en"
                         }]
                 }],
          "tilewidth":32
