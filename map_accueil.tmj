@@ -233,17 +233,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"Nom",
-                 "type":"string",
-                 "value":"layer"
-                }, 
-                {
-                 "name":"Type",
-                 "type":"string",
-                 "value":"String"
-                }, 
-                {
-                 "name":"Valeur",
+                 "name":"layer",
                  "type":"string",
                  "value":"top"
                 }],
@@ -308,3 +298,4 @@
  "width":33
 
 }
+
